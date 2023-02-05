@@ -1,7 +1,7 @@
-2a0a:6040:d700::/44,HK,CN-HK,Hong Kong
+2a0a:6040:d700::/44,HK,,Hong Kong
 2a0a:6040:d710::/44,TW,TW-TPE,Taipei
 2a0a:6040:d720::/44,US,US-WA,Seattle
 2a0a:6040:d740::/48,CN,CN-HB,Wuhan
 2a12:3fc2:e100::/44,CN,CN-GD,Guangzhou
-2a12:3fc2:e110::/44,HK,CN-HK,Hong Kong
-2a06:a005:1890::/44,HK,CN-HK,Hong Kong
+2a12:3fc2:e110::/44,HK,,Hong Kong
+2a06:a005:1890::/44,HK,,Hong Kong
